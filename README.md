@@ -18,9 +18,9 @@
 {"buildingid": "1574231835", "building": "专家公寓 T3"}<br/>
 <br/>
 
-sender(发送方)默认使用QQ邮箱smtp服务，参考https://cloud.tencent.com/developer/article/2177098<br/>
-password值为是smtp服务授权码<br/>
-receiver为任意可接受信息的邮箱<br/>
+"sender"(发送方)默认使用QQ邮箱smtp服务，参考https://cloud.tencent.com/developer/article/2177098<br/>
+"password"值为是smtp服务授权码<br/>
+"receiver"为任意可接受信息的邮箱<br/>
 ### 开机自启教程
 可以参考https://blog.csdn.net/qq_41007870/article/details/121036645<br/>
 ##### 自行部署环境并运行代码者
